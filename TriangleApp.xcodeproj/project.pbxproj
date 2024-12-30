@@ -15,7 +15,6 @@
 		2A7139242533405100DC8A98 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2A7139222533405100DC8A98 /* LaunchScreen.storyboard */; };
 		2A71392F2533405300DC8A98 /* TriangleAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A71392E2533405300DC8A98 /* TriangleAppTests.swift */; };
 		2A71393A2533405300DC8A98 /* TriangleAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A7139392533405300DC8A98 /* TriangleAppUITests.swift */; };
-		374F5D032D22E713006A3FBE /* codemagic.yaml in Resources */ = {isa = PBXBuildFile; fileRef = 374F5D022D22E713006A3FBE /* codemagic.yaml */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,7 +49,6 @@
 		2A7139352533405300DC8A98 /* TriangleAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TriangleAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2A7139392533405300DC8A98 /* TriangleAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TriangleAppUITests.swift; sourceTree = "<group>"; };
 		2A71393B2533405300DC8A98 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		374F5D022D22E713006A3FBE /* codemagic.yaml */ = {isa = PBXFileReference; lastKnownFileType = text.yaml; path = codemagic.yaml; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,7 +100,6 @@
 			isa = PBXGroup;
 			children = (
 				2A7139172533404B00DC8A98 /* AppDelegate.swift */,
-				374F5D022D22E713006A3FBE /* codemagic.yaml */,
 				2A7139192533404B00DC8A98 /* SceneDelegate.swift */,
 				2A71391B2533404B00DC8A98 /* ViewController.swift */,
 				2A71391D2533404B00DC8A98 /* Main.storyboard */,
@@ -238,7 +235,6 @@
 				2A7139242533405100DC8A98 /* LaunchScreen.storyboard in Resources */,
 				2A7139212533405100DC8A98 /* Assets.xcassets in Resources */,
 				2A71391F2533404B00DC8A98 /* Main.storyboard in Resources */,
-				374F5D032D22E713006A3FBE /* codemagic.yaml in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
